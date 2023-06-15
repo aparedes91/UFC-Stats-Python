@@ -1,4 +1,4 @@
-![DfTfOlVW0AAFiN8](https://github.com/aparedes91/UFC-Stats-Python/assets/131905166/38bdc45e-df20-4526-a8b8-e4b678a6dcd2)
+![UFC](https://github.com/aparedes91/UFC-Stats-Python/assets/131905166/38bdc45e-df20-4526-a8b8-e4b678a6dcd2)
 
 # Ultimate Fighting Championship Historical Data (1993-2021)
 This project provided by CareerFoundry deals with a database from a mixed martial arts organization headquartered in Las Vegas, Nevada.
